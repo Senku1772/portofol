@@ -209,7 +209,7 @@ export default function AboutPage() {
               >
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Location</h3>
-                  <p className="text-gray-300">Banjarbaru, Indonesia</p>
+                  <p className="text-gray-300">Kudus, Indonesia</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Available for</h3>
@@ -217,6 +217,7 @@ export default function AboutPage() {
                     <li>Full Stack Developer</li>
                     <li>Tech Educator</li>
                     <li>Open Source Contributor</li>
+                    <li>Undergraduate</li>
                   </ul>
                 </div>
               </motion.div>
