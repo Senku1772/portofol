@@ -6,7 +6,7 @@ export function Header() {
     <header className="bg-black py-6 portrait:block landscape:hidden">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
-          <h1 className="text-yellow-400 text-xl font-semibold">Raol Mukarrozi</h1>
+          <h1 className="text-yellow-400 text-xl font-semibold">Zakaria Fadila</h1>
           <Link
             href="https://github.com/latesturl"
             target="_blank"
